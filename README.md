@@ -41,7 +41,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Wrapped Car</div>
-        <img src="img\h1.jpg" alt="car" style="width:100%">
+        <img src="h1.jpg" alt="car" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
