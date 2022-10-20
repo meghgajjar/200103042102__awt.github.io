@@ -23,7 +23,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img src="customs.jpg" alt="Customs" width="1500" height="800">
+  <img src="img\customs.jpg" alt="Customs" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>MG</b></span> <span class="w3-hide-small w3-text-light-grey">Customs</span></h1>
   </div>
@@ -41,7 +41,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Wrapped Car</div>
-        <img src="h1.jpg" alt="car" style="width:100%">
+        <img src="img\h1.jpg" alt="car" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
